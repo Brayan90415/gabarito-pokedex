@@ -1,0 +1,11 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+}
